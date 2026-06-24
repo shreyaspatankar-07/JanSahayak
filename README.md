@@ -13,7 +13,7 @@
 
 ### [🚀 **Try the App Live**](https://jansahayak-india.streamlit.app/)
 
-### [📹 **Watch Video Walkthrough**]([https://drive.google.com/file/d/1KdTgS_YHTv3Doj46sk-M2syaa0fFipIQ/view?usp=sharing])
+### [📹 **Watch Video Walkthrough**](https://drive.google.com/file/d/1KdTgS_YHTv3Doj46sk-M2syaa0fFipIQ/view?usp=sharing)
 
 ---
 
